@@ -14,7 +14,7 @@ Para ver este proyecto en tu máquina local:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+   git clone [https://github.com/polito101/Tarea_Optativo](https://github.com/polito101/Tarea_Optativo)
 
 ## 📂 Estructura del Proyecto
 
